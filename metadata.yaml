@@ -1,0 +1,30 @@
+_repo: Path-Flower-and-Other-Verses_27297
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dargan, Olive Tilford
+    aliases:
+    - Burke, Fielding
+    - Tilford, Olive
+    birthdate: 1869
+    deathdate: 1968
+    gutenberg_agent_id: '9123'
+    url: http://www.gutenberg.org/2009/agents/9123
+    wikipedia: http://en.wikipedia.org/wiki/Olive_Tilford_Dargan
+description: ''
+gutenberg_issued: '2008-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: Path Flower, and Other Verses
+url: http://www.gutenberg.org/ebooks/27297
